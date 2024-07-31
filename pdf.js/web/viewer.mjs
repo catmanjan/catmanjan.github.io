@@ -14033,7 +14033,7 @@ initCom(PDFViewerApplication);
   PDFPrintServiceFactory.initGlobals(PDFViewerApplication);
 }
 {
-  const HOSTED_VIEWER_ORIGINS = ["null", "http://i8npreview20240731223221.azurewebsites.net", "https://i8npreview20240731223221.azurewebsites.net"];
+  const HOSTED_VIEWER_ORIGINS = ["null", "http://catmanjan.github.io", "https://catmanjan.github.io"];
   var validateFileURL = function (file) {
     if (!file) {
       return;
